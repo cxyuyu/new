@@ -13,7 +13,7 @@ public static void main(String[] args) {
 try { 
 	File csv = new File("/media/cxyu/工作/BaiduYunDownload/百度百科语料/part-r-00000/part-r-00000.csv"); // CSV文件
 //File csv = new File("/media/cxyu/DE46696646693FFF/迅雷下载/weibo数据/weibo_freshdata.2016-05-01/weibo_freshdata.csv"); // CSV文件
-//change something
+//change something2
 BufferedReader br = new BufferedReader(new FileReader(csv));
 
 // 读取直到最后一行 
